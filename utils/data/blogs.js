@@ -15,7 +15,7 @@ export const blogs = [
         id: 2,
         title: "PathPerfect",
         image: pathperfect,
-        link: "https://github.com/Eric-04/PathPerfect",
+        link: "https://devpost.com/software/pathperfect",
         Github: "https://github.com/Eric-04/PathPerfect",
         description: "Finding a scenic, round path to plan a jog, calculated based on the user's desired distance",
         languages: "Javascript, MongoDB"
