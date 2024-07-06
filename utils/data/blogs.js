@@ -5,6 +5,7 @@ export const blogs = [
     {
       id: 1,
       title: "MemoTech",
+      award: 'Best Overall Hack at Hack@Brown',
       image: memotech,
       link: "https://bonono.netlify.app/",
       Github: "https://github.com/ryanhuang8/memotech",

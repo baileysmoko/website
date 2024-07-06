@@ -48,6 +48,11 @@ function BlogCard({ blog }) {
             {blog.title}
           </p>
         </Link>
+        {blog.award && (
+          <p className='text-sm font-semibold text-yellow-400 mb-2'>
+            🏆 {blog.award}
+          </p>
+        )}
         {blog.description && (
           <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6'>
             {blog.description}
